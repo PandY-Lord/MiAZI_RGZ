@@ -1,6 +1,4 @@
 # шифрование методом элептических кривых
-# -*- coding: utf-8 -*-
-
 
 def get_inverse_element(value, max_value):
     """
